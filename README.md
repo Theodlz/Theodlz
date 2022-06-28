@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theophiledulaz/)
 
-[![Theodlz GitHub stats](https://github-readme-stats.vercel.app/api?username=Theodlz)](https://github.com/anuraghazra/github-readme-stats)
+[![Theodlz GitHub stats](https://github-readme-stats.vercel.app/api/?username=Theodlz&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
