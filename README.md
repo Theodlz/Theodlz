@@ -1,19 +1,11 @@
-### Hi there, I'm Theo! 👋 [![Linkedin](https://img.shields.io/badge/-LinkedIn-midnightblue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theophiledulaz/)
+<h1>
+    Hi there, I'm Theo! 👋 
+</h1>
 
-<!--
-**Theodlz/Theodlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Theodlz GitHub stats](https://github-readme-stats.vercel.app/api/?username=Theodlz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<h2> Connect With Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Theodlz GitHub stats](https://github-readme-stats.vercel.app/api/?username=Theodlz&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href = "https://www.linkedin.com/in/theophiledulaz/" target="_blank"><img width="40px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+<a href = "mailto:theophile.dulaz@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 
